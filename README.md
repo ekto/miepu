@@ -6,10 +6,10 @@
 > :colorscheme [space] [ctrl+d]
 
 **To change Vim color scheme use the following command:**
-> :colorscheme [colorscheme.vim]
+> :colorscheme [miepu.vim]
 
 **Now move the new scheme into it:**
-> mv ~/Downloads/[colorscheme.vim]  ~/.vim/colors
+> mv ~/Downloads/[miepu.vim]  ~/.vim/colors
 
 **To enable the syntax highlight feature you also need to include the following line:**
 > syntax on
